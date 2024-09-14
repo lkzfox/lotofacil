@@ -1,0 +1,355 @@
+---------------------------------- 0
+{'Jogos Analisados': 3022, 'Qtd Igual': 2045, 'Acerto': 0.32, 'fn': '1*P-P/1+2*P*P/6', 'pos': (0, 1, 2, 3)} 2045 0
+---------------------------------- 0
+{'Jogos Analisados': 3064, 'Qtd Igual': 2252, 'Acerto': 0.27, 'fn': '1*P-P/1+2*P*P/7', 'pos': (0, 1, 2, 3)} 2045 2252
+---------------------------------- 0
+{'Jogos Analisados': 3078, 'Qtd Igual': 2365, 'Acerto': 0.23, 'fn': '1*P-P/1+2*P*P/8', 'pos': (0, 1, 2, 3)} 2045 2365
+----------------------------------071 2066
+{'Jogos Analisados': 3043, 'Qtd Igual': 1919, 'Acerto': 0.37, 'fn': '1*P-P/1+2*P*P/8', 'pos': (0, 1, 2, 5)} 1919 2365
+----------------------------------087 1994
+{'Jogos Analisados': 3082, 'Qtd Igual': 1879, 'Acerto': 0.39, 'fn': '1*P-P/1+P/2*P/3', 'pos': (0, 1, 2, 7)} 1879 2365
+----------------------------------
+{'Jogos Analisados': 3075, 'Qtd Igual': 1876, 'Acerto': 0.39, 'fn': '1*P-P/1+P/2*P/3', 'pos': (0, 1, 2, 8)} 1876 2365
+----------------------------------
+{'Jogos Analisados': 3063, 'Qtd Igual': 1843, 'Acerto': 0.4, 'fn': '1*P-P/1+P/2*P/3', 'pos': (0, 1, 2, 9)} 1843 2365
+----------------------------------071 1863
+{'Jogos Analisados': 3054, 'Qtd Igual': 1797, 'Acerto': 0.41, 'fn': '1*P-P/1+P/2*P/4', 'pos': (0, 1, 2, 14)} 1797 2365
+----------------------------------043 1850
+{'Jogos Analisados': 3007, 'Qtd Igual': 1777, 'Acerto': 0.41, 'fn': '1*P-P/1+P/2*P/4', 'pos': (0, 1, 3, 12)} 1777 2365
+----------------------------------634 1578
+{'Jogos Analisados': 3005, 'Qtd Igual': 1765, 'Acerto': 0.41, 'fn': '1*P-P/1+P/2*P/5', 'pos': (0, 3, 4, 6)} 1765 2365
+----------------------------------089 1837
+{'Jogos Analisados': 3089, 'Qtd Igual': 1719, 'Acerto': 0.44, 'fn': '1*P-P/1+P/2*P/6', 'pos': (0, 1, 4, 5)} 1719 2365
+----------------------------------059 1741
+{'Jogos Analisados': 3089, 'Qtd Igual': 1716, 'Acerto': 0.44, 'fn': '1*P-P/1+P/2*P/6', 'pos': (0, 2, 4, 7)} 1716 2365
+----------------------------------089 2143
+{'Jogos Analisados': 3089, 'Qtd Igual': 2407, 'Acerto': 0.22, 'fn': '1*P-P/1+P/2*P/7', 'pos': (0, 1, 2, 11)} 1716 2407
+----------------------------------
+{'Jogos Analisados': 3089, 'Qtd Igual': 2462, 'Acerto': 0.2, 'fn': '1*P-P/1+P/2*P/7', 'pos': (0, 1, 2, 12)} 1716 2462
+----------------------------------089 1858
+{'Jogos Analisados': 3089, 'Qtd Igual': 1698, 'Acerto': 0.45, 'fn': '1*P-P/1+P/2*P/7', 'pos': (0, 1, 5, 6)} 1698 2462
+----------------------------------064 1783
+{'Jogos Analisados': 3089, 'Qtd Igual': 1661, 'Acerto': 0.46, 'fn': '1*P-P/1+P/2*P/7', 'pos': (0, 2, 4, 8)} 1661 2462
+----------------------------------089 1806
+{'Jogos Analisados': 3089, 'Qtd Igual': 1657, 'Acerto': 0.46, 'fn': '1*P-P/1+P/2*P/7', 'pos': (0, 2, 5, 7)} 1657 2462
+----------------------------------089 2359
+{'Jogos Analisados': 3089, 'Qtd Igual': 2488, 'Acerto': 0.19, 'fn': '1*P-P/1+P/2*P/8', 'pos': (0, 1, 2, 13)} 1657 2488
+----------------------------------089 1770
+{'Jogos Analisados': 3089, 'Qtd Igual': 1654, 'Acerto': 0.46, 'fn': '1*P-P/1+P/2*P/8', 'pos': (0, 4, 7, 10)} 1654 2488
+----------------------------------089 1824
+{'Jogos Analisados': 3089, 'Qtd Igual': 1650, 'Acerto': 0.47, 'fn': '1*P-P/1+P/2*P/8', 'pos': (1, 4, 6, 10)} 1650 2488
+----------------------------------085 1726
+{'Jogos Analisados': 3089, 'Qtd Igual': 1572, 'Acerto': 0.49, 'fn': '1*P-P/1+P/2*P/9', 'pos': (0, 1, 2, 11)} 1572 2488
+----------------------------------089 2300
+{'Jogos Analisados': 3089, 'Qtd Igual': 2513, 'Acerto': 0.19, 'fn': '1*P-P/1+P/2*P/9', 'pos': (0, 1, 3, 13)} 1572 2513
+----------------------------------
+{'Jogos Analisados': 3089, 'Qtd Igual': 2555, 'Acerto': 0.17, 'fn': '1*P-P/1+P/2*P/9', 'pos': (0, 1, 3, 14)} 1572 2555
+----------------------------------087 1642
+{'Jogos Analisados': 3089, 'Qtd Igual': 1433, 'Acerto': 0.54, 'fn': '1*P-P/1+P/3*P/7', 'pos': (0, 1, 2, 13)} 1433 2555
+----------------------------------089 1855
+{'Jogos Analisados': 3089, 'Qtd Igual': 1391, 'Acerto': 0.55, 'fn': '1*P-P/1+P/3*P/8', 'pos': (8, 9, 10, 14)} 1391 2555
+----------------------------------3082 2541
+{'Jogos Analisados': 3075, 'Qtd Igual': 2579, 'Acerto': 0.16, 'fn': '1*P-P/2+P/1*P/9', 'pos': (0, 1, 4, 8)} 1391 2579
+----------------------------------3089 2415
+{'Jogos Analisados': 3089, 'Qtd Igual': 2609, 'Acerto': 0.16, 'fn': '1*P-P/2+P/3*P/7', 'pos': (0, 1, 2, 13)} 1391 2609
+----------------------------------
+{'Jogos Analisados': 3089, 'Qtd Igual': 2640, 'Acerto': 0.15, 'fn': '1*P-P/2+P/3*P/7', 'pos': (0, 1, 2, 14)} 1391 2640
+----------------------------------2974 2563
+{'Jogos Analisados': 3061, 'Qtd Igual': 2678, 'Acerto': 0.13, 'fn': '1*P-P/2+P/5*P/9', 'pos': (0, 1, 2, 11)} 1391 2678
+----------------------------------3089 2550
+{'Jogos Analisados': 3089, 'Qtd Igual': 2687, 'Acerto': 0.13, 'fn': '1*P-P/2+P/6*P/8', 'pos': (1, 3, 4, 12)} 1391 2687
+----------------------------------3052 2670
+{'Jogos Analisados': 3087, 'Qtd Igual': 2709, 'Acerto': 0.12, 'fn': '1*P-P/2+P/6*P/9', 'pos': (0, 1, 2, 14)} 1391 2709
+----------------------------------2956 2552
+{'Jogos Analisados': 3063, 'Qtd Igual': 2732, 'Acerto': 0.11, 'fn': '1*P-P/2+P/6*P/9', 'pos': (0, 2, 3, 14)} 1391 2732
+----------------------------------3089 2609
+{'Jogos Analisados': 3089, 'Qtd Igual': 2751, 'Acerto': 0.11, 'fn': '1*P-P/2+P/6*P/9', 'pos': (1, 3, 4, 14)} 1391 2751
+---------------------------------- 3089 2693
+{'Jogos Analisados': 3089, 'Qtd Igual': 2758, 'Acerto': 0.11, 'fn': '1*P-P/3+P/6*P/8', 'pos': (1, 2, 3, 7)} 1391 2758
+---------------------------------- 3089 2721
+{'Jogos Analisados': 3089, 'Qtd Igual': 2783, 'Acerto': 0.1, 'fn': '1*P-P/3+P/6*P/9', 'pos': (1, 2, 3, 8)} 1391 2783
+---------------------------------- 2970 2708
+{'Jogos Analisados': 3055, 'Qtd Igual': 2794, 'Acerto': 0.09, 'fn': '1*P-P/3+P/7*P/8', 'pos': (0, 1, 2, 9)} 1391 2794
+---------------------------------- 2953 2695
+{'Jogos Analisados': 3052, 'Qtd Igual': 2829, 'Acerto': 0.07, 'fn': '1*P-P/3+P/7*P/9', 'pos': (0, 1, 2, 10)} 1391 2829
+1558424{'Jogos Analisados': 3099, 'Qtd Igual': 2141, 'Acerto': 0.31, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 3)} 2141 0 1576576
+{'Jogos Analisados': 3099, 'Qtd Igual': 2278, 'Acerto': 0.26, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 4)} 2141 2278 1576577
+{'Jogos Analisados': 3099, 'Qtd Igual': 1983, 'Acerto': 0.36, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 5)} 1983 2278 1576578
+{'Jogos Analisados': 3098, 'Qtd Igual': 1914, 'Acerto': 0.38, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 6)} 1914 2278 1576579
+{'Jogos Analisados': 3098, 'Qtd Igual': 1895, 'Acerto': 0.39, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 7)} 1895 2278 1576580
+{'Jogos Analisados': 3096, 'Qtd Igual': 1874, 'Acerto': 0.39, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 8)} 1874 2278 1576581
+{'Jogos Analisados': 3082, 'Qtd Igual': 1866, 'Acerto': 0.39, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 10)} 1866 2278 1576583
+{'Jogos Analisados': 3070, 'Qtd Igual': 1824, 'Acerto': 0.41, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 11)} 1824 2278 1576584
+{'Jogos Analisados': 3051, 'Qtd Igual': 1816, 'Acerto': 0.4, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 1, 2, 12)} 1816 2278 1576585
+{'Jogos Analisados': 3099, 'Qtd Igual': 2341, 'Acerto': 0.24, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 2, 3, 4)} 1816 2341 1576654
+{'Jogos Analisados': 3096, 'Qtd Igual': 2366, 'Acerto': 0.24, 'fn': '1*P-P/3+P/8*P/1', 'pos': (0, 3, 4, 5)} 1816 2366 1576720
+{'Jogos Analisados': 3099, 'Qtd Igual': 1733, 'Acerto': 0.44, 'fn': '1*P-P/3+P/8*P/2', 'pos': (0, 1, 2, 5)} 1733 2366 1579308
+{'Jogos Analisados': 3099, 'Qtd Igual': 2410, 'Acerto': 0.22, 'fn': '1*P-P/3+P/8*P/2', 'pos': (0, 1, 2, 8)} 1733 2410 1579311
+{'Jogos Analisados': 3053, 'Qtd Igual': 2565, 'Acerto': 0.16, 'fn': '1*P-P/3+P/8*P/4', 'pos': (0, 1, 2, 5)} 1733 2565 1583403
+{'Jogos Analisados': 3099, 'Qtd Igual': 1685, 'Acerto': 0.46, 'fn': '1*P-P/3+P/8*P/4', 'pos': (0, 1, 2, 9)} 1685 2565 1583407
+{'Jogos Analisados': 3099, 'Qtd Igual': 1539, 'Acerto': 0.5, 'fn': '1*P-P/3+P/8*P/4', 'pos': (0, 1, 2, 10)} 1539 2565 1583408
+{'Jogos Analisados': 3099, 'Qtd Igual': 2631, 'Acerto': 0.15, 'fn': '1*P-P/3+P/8*P/4', 'pos': (1, 2, 3, 4)} 1539 2631 1583765
+{'Jogos Analisados': 3021, 'Qtd Igual': 2714, 'Acerto': 0.1, 'fn': '1*P-P/3+P/8*P/5', 'pos': (0, 1, 2, 6)} 1539 2714 1586134
+{'Jogos Analisados': 3099, 'Qtd Igual': 1506, 'Acerto': 0.51, 'fn': '1*P-P/3+P/8*P/5', 'pos': (0, 1, 2, 13)} 1506 2714 1586141
+{'Jogos Analisados': 3099, 'Qtd Igual': 2753, 'Acerto': 0.11, 'fn': '1*P-P/3+P/8*P/5', 'pos': (1, 2, 3, 5)} 1506 2753 1586496
+{'Jogos Analisados': 3099, 'Qtd Igual': 2767, 'Acerto': 0.11, 'fn': '1*P-P/3+P/8*P/6', 'pos': (1, 2, 3, 7)} 1506 2767 1589228
+{'Jogos Analisados': 3065, 'Qtd Igual': 2804, 'Acerto': 0.09, 'fn': '1*P-P/3+P/8*P/7', 'pos': (0, 1, 2, 9)} 1506 2804 1591597
+{'Jogos Analisados': 3054, 'Qtd Igual': 2851, 'Acerto': 0.07, 'fn': '1*P-P/3+P/8*P/9', 'pos': (0, 1, 2, 11)} 1506 2851 1595694
+{'Jogos Analisados': 3090, 'Qtd Igual': 2920, 'Acerto': 0.06, 'fn': '1*P-P/3+P/8*P/9', 'pos': (0, 1, 2, 12)} 1506 2920 1595695
+{'Jogos Analisados': 3099, 'Qtd Igual': 1463, 'Acerto': 0.53, 'fn': '1*P-P/3+P/9*P/5', 'pos': (0, 1, 2, 14)} 1463 2920 1627092
+{'Jogos Analisados': 3099, 'Qtd Igual': 2933, 'Acerto': 0.05, 'fn': '1*P-P/6+P/7*P/8', 'pos': (0, 1, 2, 3)} 1463 2933 3517606
+{'Jogos Analisados': 3089, 'Qtd Igual': 2956, 'Acerto': 0.04, 'fn': '1*P-P/6+P/7*P/9', 'pos': (0, 1, 2, 3)} 1463 2956 3520336
+{'Jogos Analisados': 3083, 'Qtd Igual': 2959, 'Acerto': 0.04, 'fn': '1*P-P/6+P/8*P/9', 'pos': (0, 1, 2, 3)} 1463 2959 3561286
+{'Jogos Analisados': 3021, 'Qtd Igual': 1899, 'Acerto': 0.37, 'fn': '1*P-7*P+P/8*2*P', 'pos': (0, 1, 2, 14)} 1899 0 3871152
+{'Jogos Analisados': 3062, 'Qtd Igual': 1801, 'Acerto': 0.41, 'fn': '1*P-P/7+P/1*P/4', 'pos': (0, 1, 2, 3)} 1801 0 3938026
+{'Jogos Analisados': 3025, 'Qtd Igual': 1682, 'Acerto': 0.44, 'fn': '1*P-P/7+P/1*P/4', 'pos': (0, 1, 2, 4)} 1682 0 3938027
+{'Jogos Analisados': 3090, 'Qtd Igual': 1872, 'Acerto': 0.39, 'fn': '1*P-P/7+P/1*P/5', 'pos': (0, 1, 2, 3)} 1682 1872 3940756
+{'Jogos Analisados': 3097, 'Qtd Igual': 2113, 'Acerto': 0.32, 'fn': '1*P-P/7+P/1*P/6', 'pos': (0, 1, 2, 3)} 1682 2113 3943486
+{'Jogos Analisados': 3099, 'Qtd Igual': 2182, 'Acerto': 0.3, 'fn': '1*P-P/7+P/1*P/8', 'pos': (0, 1, 2, 3)} 1682 2182 3947581
+{'Jogos Analisados': 3039, 'Qtd Igual': 2269, 'Acerto': 0.25, 'fn': '1*P-P/7+P/1*P/8', 'pos': (0, 4, 5, 6)} 1682 2269 3947780
+{'Jogos Analisados': 3079, 'Qtd Igual': 2374, 'Acerto': 0.23, 'fn': '1*P-P/7+P/1*P/9', 'pos': (0, 4, 5, 6)} 1682 2374 3950510
+{'Jogos Analisados': 3059, 'Qtd Igual': 2395, 'Acerto': 0.22, 'fn': '1*P-P/7+P/1*P/9', 'pos': (0, 4, 5, 7)} 1682 2395 3950511
+{'Jogos Analisados': 3099, 'Qtd Igual': 2426, 'Acerto': 0.22, 'fn': '1*P-P/7+P/3*P/8', 'pos': (0, 1, 2, 11)} 1682 2426 4029489
+{'Jogos Analisados': 3099, 'Qtd Igual': 2589, 'Acerto': 0.16, 'fn': '1*P-P/7+P/3*P/8', 'pos': (0, 1, 2, 12)} 1682 2589 4029490
+{'Jogos Analisados': 3099, 'Qtd Igual': 2625, 'Acerto': 0.15, 'fn': '1*P-P/7+P/3*P/9', 'pos': (0, 1, 2, 14)} 1682 2625 4032222
+{'Jogos Analisados': 3099, 'Qtd Igual': 2674, 'Acerto': 0.14, 'fn': '1*P-P/7+P/5*P/9', 'pos': (0, 1, 2, 3)} 1682 2674 4114111
+{'Jogos Analisados': 3099, 'Qtd Igual': 2712, 'Acerto': 0.12, 'fn': '1*P-P/7+P/6*P/8', 'pos': (0, 1, 2, 3)} 1682 2712 4152331
+{'Jogos Analisados': 3099, 'Qtd Igual': 2788, 'Acerto': 0.1, 'fn': '1*P-P/7+P/6*P/9', 'pos': (0, 1, 2, 3)} 1682 2788 4155061
+{'Jogos Analisados': 3099, 'Qtd Igual': 3021, 'Acerto': 0.03, 'fn': '1*P-P/7+P/8*P/9', 'pos': (0, 1, 2, 3)} 1682 3021 4216486
+{'Jogos Analisados': 3099, 'Qtd Igual': 1676, 'Acerto': 0.46, 'fn': '1*P-P/7+P/8*P/9', 'pos': (2, 3, 4, 12)} 1676 3021 4217143
+{'Jogos Analisados': 3099, 'Qtd Igual': 1669, 'Acerto': 0.46, 'fn': '1*P-P/8+P/7*P/9', 'pos': (1, 4, 9, 13)} 1669 3021 4851729
+{'Jogos Analisados': 3099, 'Qtd Igual': 1667, 'Acerto': 0.46, 'fn': '1*P-P/9+P/6*P/8', 'pos': (0, 4, 8, 14)} 1667 3021 5464324
+{'Jogos Analisados': 3099, 'Qtd Igual': 1666, 'Acerto': 0.46, 'fn': 'P/1-1*P+P/2*P/7', 'pos': (0, 2, 4, 8)} 1666 3021 5603418
+{'Jogos Analisados': 3099, 'Qtd Igual': 1663, 'Acerto': 0.46, 'fn': 'P/1-1*P+P/2*P/7', 'pos': (0, 2, 5, 7)} 1663 3021 5603426
+{'Jogos Analisados': 3099, 'Qtd Igual': 1660, 'Acerto': 0.46, 'fn': 'P/1-1*P+P/2*P/8', 'pos': (0, 4, 7, 10)} 1660 3021 5606274
+{'Jogos Analisados': 3099, 'Qtd Igual': 1658, 'Acerto': 0.46, 'fn': 'P/1-1*P+P/2*P/8', 'pos': (1, 4, 6, 10)} 1658 3021 5606553
+{'Jogos Analisados': 3099, 'Qtd Igual': 1577, 'Acerto': 0.49, 'fn': 'P/1-1*P+P/2*P/9', 'pos': (0, 1, 2, 11)} 1577 3021 5608794
+{'Jogos Analisados': 3099, 'Qtd Igual': 1438, 'Acerto': 0.54, 'fn': 'P/1-1*P+P/3*P/7', 'pos': (0, 1, 2, 13)} 1438 3021 5644286
+{'Jogos Analisados': 3099, 'Qtd Igual': 1395, 'Acerto': 0.55, 'fn': 'P/1-1*P+P/3*P/8', 'pos': (8, 9, 10, 14)} 1395 3021 5648339
+{'Jogos Analisados': 3031, 'Qtd Igual': 2009, 'Acerto': 0.34, 'fn': 'P/1-3*P+2*P*P/8', 'pos': (0, 1, 2, 6)} 2009 0 6588859
+{'Jogos Analisados': 3082, 'Qtd Igual': 1981, 'Acerto': 0.36, 'fn': 'P/1-3*P+2*P*P/8', 'pos': (0, 1, 2, 7)} 1981 0 6588860
+{'Jogos Analisados': 3068, 'Qtd Igual': 1916, 'Acerto': 0.38, 'fn': 'P/1-3*P+2*P*P/8', 'pos': (0, 1, 2, 8)} 1916 0 6588861
+{'Jogos Analisados': 3023, 'Qtd Igual': 1877, 'Acerto': 0.38, 'fn': 'P/1-3*P+2*P*P/8', 'pos': (0, 1, 2, 9)} 1877 0 6588862
+{'Jogos Analisados': 3023, 'Qtd Igual': 2078, 'Acerto': 0.31, 'fn': 'P/1-3*P+2*P*P/8', 'pos': (0, 1, 3, 5)} 1877 2078 6588869
+{'Jogos Analisados': 3034, 'Qtd Igual': 2178, 'Acerto': 0.28, 'fn': 'P/1-3*P+2*P*P/9', 'pos': (0, 1, 4, 5)} 1877 2178 6591609
+{'Jogos Analisados': 3083, 'Qtd Igual': 1876, 'Acerto': 0.39, 'fn': 'P/1-3*P+P/2*P/3', 'pos': (0, 1, 2, 13)} 1876 2178 6595691
+{'Jogos Analisados': 3070, 'Qtd Igual': 1848, 'Acerto': 0.4, 'fn': 'P/1-3*P+P/2*P/3', 'pos': (0, 1, 2, 14)} 1848 2178 6595692
+{'Jogos Analisados': 3050, 'Qtd Igual': 2201, 'Acerto': 0.28, 'fn': 'P/1-3*P+P/2*P/3', 'pos': (0, 1, 5, 6)} 1848 2201 6595714
+{'Jogos Analisados': 3052, 'Qtd Igual': 1817, 'Acerto': 0.4, 'fn': 'P/1-3*P+P/2*P/3', 'pos': (0, 2, 3, 14)} 1817 2201 6595769
+{'Jogos Analisados': 3017, 'Qtd Igual': 1783, 'Acerto': 0.41, 'fn': 'P/1-3*P+P/2*P/3', 'pos': (0, 3, 4, 14)} 1783 2201 6595834
+{'Jogos Analisados': 3012, 'Qtd Igual': 1780, 'Acerto': 0.41, 'fn': 'P/1-3*P+P/2*P/4', 'pos': (0, 3, 4, 13)} 1780 2201 6598563
+{'Jogos Analisados': 3056, 'Qtd Igual': 1696, 'Acerto': 0.45, 'fn': 'P/1-3*P+P/2*P/4', 'pos': (0, 6, 7, 14)} 1696 2201 6598697
+{'Jogos Analisados': 3018, 'Qtd Igual': 1665, 'Acerto': 0.45, 'fn': 'P/1-3*P+P/2*P/5', 'pos': (0, 5, 8, 14)} 1665 2201 6601405
+{'Jogos Analisados': 3030, 'Qtd Igual': 1661, 'Acerto': 0.45, 'fn': 'P/1-3*P+P/2*P/5', 'pos': (0, 6, 11, 13)} 1661 2201 6601444
+{'Jogos Analisados': 3022, 'Qtd Igual': 1658, 'Acerto': 0.45, 'fn': 'P/1-3*P+P/2*P/5', 'pos': (5, 8, 12, 13)} 1658 2201 6602357
+{'Jogos Analisados': 3030, 'Qtd Igual': 1651, 'Acerto': 0.46, 'fn': 'P/1-3*P+P/2*P/6', 'pos': (0, 3, 10, 11)} 1651 2201 6604060
+{'Jogos Analisados': 3022, 'Qtd Igual': 1648, 'Acerto': 0.45, 'fn': 'P/1-3*P+P/2*P/6', 'pos': (0, 6, 13, 14)} 1648 2201 6604178
+{'Jogos Analisados': 3014, 'Qtd Igual': 1633, 'Acerto': 0.46, 'fn': 'P/1-3*P+P/2*P/6', 'pos': (2, 4, 9, 12)} 1633 2201 6604608
+{'Jogos Analisados': 3023, 'Qtd Igual': 1631, 'Acerto': 0.46, 'fn': 'P/1-3*P+P/2*P/8', 'pos': (0, 4, 13, 14)} 1631 2201 6609574
+{'Jogos Analisados': 3037, 'Qtd Igual': 1608, 'Acerto': 0.47, 'fn': 'P/1-3*P+P/2*P/8', 'pos': (1, 4, 12, 14)} 1608 2201 6609859
+{'Jogos Analisados': 3006, 'Qtd Igual': 1584, 'Acerto': 0.47, 'fn': 'P/1-3*P+P/2*P/8', 'pos': (2, 3, 8, 14)} 1584 2201 6610020
+{'Jogos Analisados': 3048, 'Qtd Igual': 1570, 'Acerto': 0.48, 'fn': 'P/1-3*P+P/2*P/8', 'pos': (2, 4, 11, 14)} 1570 2201 6610077
+{'Jogos Analisados': 3003, 'Qtd Igual': 1552, 'Acerto': 0.48, 'fn': 'P/1-3*P+P/2*P/8', 'pos': (2, 5, 13, 14)} 1552 2201 6610116
+{'Jogos Analisados': 3037, 'Qtd Igual': 1541, 'Acerto': 0.49, 'fn': 'P/1-3*P+P/2*P/8', 'pos': (4, 5, 11, 14)} 1541 2201 6610398
+{'Jogos Analisados': 3030, 'Qtd Igual': 2262, 'Acerto': 0.25, 'fn': 'P/1-3*P+P/5*2*P', 'pos': (0, 1, 2, 4)} 1541 2262 6696692
+{'Jogos Analisados': 3098, 'Qtd Igual': 2227, 'Acerto': 0.28, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 3)} 2227 0 6890521
+{'Jogos Analisados': 3097, 'Qtd Igual': 1997, 'Acerto': 0.36, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 4)} 1997 0 6890522
+{'Jogos Analisados': 3092, 'Qtd Igual': 1929, 'Acerto': 0.38, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 5)} 1929 0 6890523
+{'Jogos Analisados': 3083, 'Qtd Igual': 1867, 'Acerto': 0.39, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 6)} 1867 0 6890524
+{'Jogos Analisados': 3069, 'Qtd Igual': 1882, 'Acerto': 0.39, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 7)} 1867 1882 6890525
+{'Jogos Analisados': 3041, 'Qtd Igual': 1891, 'Acerto': 0.38, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 8)} 1867 1891 6890526
+{'Jogos Analisados': 3085, 'Qtd Igual': 1939, 'Acerto': 0.37, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 3, 4)} 1867 1939 6890533
+{'Jogos Analisados': 3087, 'Qtd Igual': 2274, 'Acerto': 0.26, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 2, 3, 4)} 1867 2274 6890599
+{'Jogos Analisados': 3081, 'Qtd Igual': 1842, 'Acerto': 0.4, 'fn': 'P/1-P/3+1*P*P/7', 'pos': (0, 1, 2, 8)} 1842 2274 6893256
+{'Jogos Analisados': 3098, 'Qtd Igual': 2389, 'Acerto': 0.23, 'fn': 'P/1-P/3+1*P*P/7', 'pos': (0, 2, 3, 4)} 1842 2389 6893329
+{'Jogos Analisados': 3030, 'Qtd Igual': 1838, 'Acerto': 0.39, 'fn': 'P/1-P/3+1*P*P/7', 'pos': (1, 2, 4, 5)} 1838 2389 6893626
+{'Jogos Analisados': 3070, 'Qtd Igual': 1824, 'Acerto': 0.41, 'fn': 'P/1-P/3+1*P*P/8', 'pos': (0, 1, 2, 11)} 1824 2389 6895989
+{'Jogos Analisados': 3051, 'Qtd Igual': 1816, 'Acerto': 0.4, 'fn': 'P/1-P/3+1*P*P/8', 'pos': (0, 1, 2, 12)} 1816 2389 6895990
+{'Jogos Analisados': 3027, 'Qtd Igual': 1811, 'Acerto': 0.4, 'fn': 'P/1-P/3+1*P*P/9', 'pos': (0, 2, 3, 12)} 1811 2389 6898797
+{'Jogos Analisados': 3098, 'Qtd Igual': 1803, 'Acerto': 0.42, 'fn': 'P/1-P/3+P/2*P/5', 'pos': (0, 1, 2, 10)} 1803 2389 6928748
+{'Jogos Analisados': 3010, 'Qtd Igual': 1753, 'Acerto': 0.42, 'fn': 'P/1-P/3+P/2*P/5', 'pos': (0, 2, 3, 14)} 1753 2389 6928829
+{'Jogos Analisados': 3096, 'Qtd Igual': 2408, 'Acerto': 0.22, 'fn': 'P/1-P/3+P/2*P/5', 'pos': (0, 3, 5, 6)} 1753 2408 6928895
+{'Jogos Analisados': 3098, 'Qtd Igual': 2227, 'Acerto': 0.28, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 3)} 2227 0 6890521
+{'Jogos Analisados': 3097, 'Qtd Igual': 1997, 'Acerto': 0.36, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 4)} 1997 0 6890522
+{'Jogos Analisados': 3092, 'Qtd Igual': 1929, 'Acerto': 0.38, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 5)} 1929 0 6890523
+{'Jogos Analisados': 3083, 'Qtd Igual': 1867, 'Acerto': 0.39, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 6)} 1867 0 6890524
+{'Jogos Analisados': 3069, 'Qtd Igual': 1882, 'Acerto': 0.39, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 7)} 1867 1882 6890525
+{'Jogos Analisados': 3041, 'Qtd Igual': 1891, 'Acerto': 0.38, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 2, 8)} 1867 1891 6890526
+{'Jogos Analisados': 3085, 'Qtd Igual': 1939, 'Acerto': 0.37, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 1, 3, 4)} 1867 1939 6890533
+{'Jogos Analisados': 3087, 'Qtd Igual': 2274, 'Acerto': 0.26, 'fn': 'P/1-P/3+1*P*P/6', 'pos': (0, 2, 3, 4)} 1867 2274 6890599
+{'Jogos Analisados': 3081, 'Qtd Igual': 1842, 'Acerto': 0.4, 'fn': 'P/1-P/3+1*P*P/7', 'pos': (0, 1, 2, 8)} 1842 2274 6893256
+{'Jogos Analisados': 3098, 'Qtd Igual': 2389, 'Acerto': 0.23, 'fn': 'P/1-P/3+1*P*P/7', 'pos': (0, 2, 3, 4)} 1842 2389 6893329
+{'Jogos Analisados': 3030, 'Qtd Igual': 1838, 'Acerto': 0.39, 'fn': 'P/1-P/3+1*P*P/7', 'pos': (1, 2, 4, 5)} 1838 2389 6893626
+{'Jogos Analisados': 3070, 'Qtd Igual': 1824, 'Acerto': 0.41, 'fn': 'P/1-P/3+1*P*P/8', 'pos': (0, 1, 2, 11)} 1824 2389 6895989
+{'Jogos Analisados': 3051, 'Qtd Igual': 1816, 'Acerto': 0.4, 'fn': 'P/1-P/3+1*P*P/8', 'pos': (0, 1, 2, 12)} 1816 2389 6895990
+{'Jogos Analisados': 3027, 'Qtd Igual': 1811, 'Acerto': 0.4, 'fn': 'P/1-P/3+1*P*P/9', 'pos': (0, 2, 3, 12)} 1811 2389 6898797
+{'Jogos Analisados': 3098, 'Qtd Igual': 1803, 'Acerto': 0.42, 'fn': 'P/1-P/3+P/2*P/5', 'pos': (0, 1, 2, 10)} 1803 2389 6928748
+{'Jogos Analisados': 3010, 'Qtd Igual': 1753, 'Acerto': 0.42, 'fn': 'P/1-P/3+P/2*P/5', 'pos': (0, 2, 3, 14)} 1753 2389 6928829
+{'Jogos Analisados': 3096, 'Qtd Igual': 2408, 'Acerto': 0.22, 'fn': 'P/1-P/3+P/2*P/5', 'pos': (0, 3, 5, 6)} 1753 2408 6928895
+{'Jogos Analisados': 3099, 'Qtd Igual': 1749, 'Acerto': 0.44, 'fn': 'P/1-P/3+P/2*P/7', 'pos': (0, 1, 2, 4)} 1749 2408 6934202
+{'Jogos Analisados': 3099, 'Qtd Igual': 1745, 'Acerto': 0.44, 'fn': 'P/1-P/3+P/2*P/7', 'pos': (0, 1, 3, 4)} 1745 2408 6934213
+{'Jogos Analisados': 3099, 'Qtd Igual': 1733, 'Acerto': 0.44, 'fn': 'P/1-P/3+P/2*P/8', 'pos': (0, 1, 2, 5)} 1733 2408 6936933
+{'Jogos Analisados': 3099, 'Qtd Igual': 2410, 'Acerto': 0.22, 'fn': 'P/1-P/3+P/2*P/8', 'pos': (0, 1, 2, 8)} 1733 2410 6936936
+{'Jogos Analisados': 3099, 'Qtd Igual': 1691, 'Acerto': 0.45, 'fn': 'P/1-P/3+P/2*P/9', 'pos': (0, 1, 2, 6)} 1691 2410 6939664
+{'Jogos Analisados': 3099, 'Qtd Igual': 2417, 'Acerto': 0.22, 'fn': 'P/1-P/3+P/2*P/9', 'pos': (0, 1, 2, 9)} 1691 2417 6939667
+{'Jogos Analisados': 3099, 'Qtd Igual': 2463, 'Acerto': 0.21, 'fn': 'P/1-P/3+P/4*P/5', 'pos': (0, 1, 2, 10)} 1691 2463 6990173
+{'Jogos Analisados': 3099, 'Qtd Igual': 2466, 'Acerto': 0.2, 'fn': 'P/1-P/3+P/4*P/5', 'pos': (0, 2, 3, 12)} 1691 2466 6990252
+{'Jogos Analisados': 3099, 'Qtd Igual': 1668, 'Acerto': 0.46, 'fn': 'P/1-P/3+P/4*P/6', 'pos': (0, 1, 2, 7)} 1668 2466 6992900
+{'Jogos Analisados': 3099, 'Qtd Igual': 1615, 'Acerto': 0.48, 'fn': 'P/1-P/3+P/4*P/6', 'pos': (0, 1, 2, 8)} 1615 2466 6992901
+{'Jogos Analisados': 3099, 'Qtd Igual': 2537, 'Acerto': 0.18, 'fn': 'P/1-P/3+P/4*P/6', 'pos': (0, 1, 2, 12)} 1615 2537 6992905
+{'Jogos Analisados': 3099, 'Qtd Igual': 2556, 'Acerto': 0.18, 'fn': 'P/1-P/3+P/4*P/6', 'pos': (0, 2, 4, 14)} 1615 2556 6992994
+{'Jogos Analisados': 3099, 'Qtd Igual': 2581, 'Acerto': 0.17, 'fn': 'P/1-P/3+P/4*P/6', 'pos': (0, 2, 5, 14)} 1615 2581 6993003
+{'Jogos Analisados': 3099, 'Qtd Igual': 1587, 'Acerto': 0.49, 'fn': 'P/1-P/3+P/4*P/7', 'pos': (0, 1, 2, 9)} 1587 2581 6995632
+{'Jogos Analisados': 3099, 'Qtd Igual': 2596, 'Acerto': 0.16, 'fn': 'P/1-P/3+P/4*P/7', 'pos': (1, 2, 3, 4)} 1587 2596 6995990
+{'Jogos Analisados': 3099, 'Qtd Igual': 1539, 'Acerto': 0.5, 'fn': 'P/1-P/3+P/4*P/8', 'pos': (0, 1, 2, 10)} 1539 2596 6998363
+{'Jogos Analisados': 3099, 'Qtd Igual': 2631, 'Acerto': 0.15, 'fn': 'P/1-P/3+P/4*P/8', 'pos': (1, 2, 3, 4)} 1539 2631 6998720
+{'Jogos Analisados': 3099, 'Qtd Igual': 1534, 'Acerto': 0.51, 'fn': 'P/1-P/3+P/4*P/9', 'pos': (0, 1, 2, 12)} 1534 2631 7001095
+{'Jogos Analisados': 3099, 'Qtd Igual': 2654, 'Acerto': 0.14, 'fn': 'P/1-P/3+P/4*P/9', 'pos': (1, 2, 3, 4)} 1534 2654 7001450
+{'Jogos Analisados': 3099, 'Qtd Igual': 2695, 'Acerto': 0.13, 'fn': 'P/1-P/3+P/4*P/9', 'pos': (1, 3, 4, 5)} 1534 2695 7001516
+{'Jogos Analisados': 3021, 'Qtd Igual': 2714, 'Acerto': 0.1, 'fn': 'P/1-P/3+P/5*P/8', 'pos': (0, 1, 2, 6)} 1534 2714 7039309
+{'Jogos Analisados': 3099, 'Qtd Igual': 1506, 'Acerto': 0.51, 'fn': 'P/1-P/3+P/5*P/8', 'pos': (0, 1, 2, 13)} 1506 2714 7039316
+{'Jogos Analisados': 3099, 'Qtd Igual': 2753, 'Acerto': 0.11, 'fn': 'P/1-P/3+P/5*P/8', 'pos': (1, 2, 3, 5)} 1506 2753 7039671
+{'Jogos Analisados': 3099, 'Qtd Igual': 1463, 'Acerto': 0.53, 'fn': 'P/1-P/3+P/5*P/9', 'pos': (0, 1, 2, 14)} 1463 2753 7042047
+{'Jogos Analisados': 3099, 'Qtd Igual': 1454, 'Acerto': 0.53, 'fn': 'P/1-P/3+P/6*P/7', 'pos': (0, 1, 2, 14)} 1454 2753 7077537
+{'Jogos Analisados': 3099, 'Qtd Igual': 2767, 'Acerto': 0.11, 'fn': 'P/1-P/3+P/6*P/8', 'pos': (1, 2, 3, 7)} 1454 2767 7080623
+{'Jogos Analisados': 3099, 'Qtd Igual': 2793, 'Acerto': 0.1, 'fn': 'P/1-P/3+P/6*P/9', 'pos': (1, 2, 3, 8)} 1454 2793 7083354
+{'Jogos Analisados': 3065, 'Qtd Igual': 2804, 'Acerto': 0.09, 'fn': 'P/1-P/3+P/7*P/8', 'pos': (0, 1, 2, 9)} 1454 2804 7121212
+{'Jogos Analisados': 3062, 'Qtd Igual': 2838, 'Acerto': 0.07, 'fn': 'P/1-P/3+P/7*P/9', 'pos': (0, 1, 2, 10)} 1454 2838 7123943
+{'Jogos Analisados': 3054, 'Qtd Igual': 2851, 'Acerto': 0.07, 'fn': 'P/1-P/3+P/8*P/9', 'pos': (0, 1, 2, 11)} 1454 2851 7164894
+{'Jogos Analisados': 3090, 'Qtd Igual': 2920, 'Acerto': 0.06, 'fn': 'P/1-P/3+P/8*P/9', 'pos': (0, 1, 2, 12)} 1454 2920 7164895
+{'Jogos Analisados': 3099, 'Qtd Igual': 2933, 'Acerto': 0.05, 'fn': 'P/1-P/6+P/7*P/8', 'pos': (0, 1, 2, 3)} 1454 2933 9086806
+{'Jogos Analisados': 3089, 'Qtd Igual': 2956, 'Acerto': 0.04, 'fn': 'P/1-P/6+P/7*P/9', 'pos': (0, 1, 2, 3)} 1454 2956 9089536
+{'Jogos Analisados': 3083, 'Qtd Igual': 2959, 'Acerto': 0.04, 'fn': 'P/1-P/6+P/8*P/9', 'pos': (0, 1, 2, 3)} 1454 2959 9130486
+{'Jogos Analisados': 3099, 'Qtd Igual': 3021, 'Acerto': 0.03, 'fn': 'P/1-P/7+P/8*P/9', 'pos': (0, 1, 2, 3)} 1454 3021 9785686
+{'Jogos Analisados': 3059, 'Qtd Igual': 2136, 'Acerto': 0.3, 'fn': '2*P-3*P+1*P*P/5', 'pos': (2, 3, 4, 6)} 2136 0 12130042
+{'Jogos Analisados': 3062, 'Qtd Igual': 2027, 'Acerto': 0.34, 'fn': '2*P-3*P+1*P*P/5', 'pos': (2, 3, 4, 7)} 2027 0 12130043
+{'Jogos Analisados': 3022, 'Qtd Igual': 2033, 'Acerto': 0.33, 'fn': '2*P-3*P+1*P*P/5', 'pos': (2, 4, 5, 7)} 2027 2033 12130097
+{'Jogos Analisados': 3039, 'Qtd Igual': 2222, 'Acerto': 0.27, 'fn': '2*P-3*P+1*P*P/5', 'pos': (3, 4, 5, 6)} 2027 2222 12130261
+{'Jogos Analisados': 3092, 'Qtd Igual': 1997, 'Acerto': 0.35, 'fn': '2*P-3*P+1*P*P/6', 'pos': (0, 1, 2, 9)} 1997 2222 12132127
+{'Jogos Analisados': 3031, 'Qtd Igual': 1898, 'Acerto': 0.37, 'fn': '2*P-3*P+1*P*P/6', 'pos': (0, 1, 2, 10)} 1898 2222 12132128
+{'Jogos Analisados': 3041, 'Qtd Igual': 1877, 'Acerto': 0.38, 'fn': '2*P-3*P+1*P*P/6', 'pos': (0, 1, 3, 10)} 1877 2222 12132139
+{'Jogos Analisados': 3047, 'Qtd Igual': 1837, 'Acerto': 0.4, 'fn': '2*P-3*P+1*P*P/6', 'pos': (0, 2, 3, 13)} 1837 2222 12132208
+{'Jogos Analisados': 3006, 'Qtd Igual': 1787, 'Acerto': 0.41, 'fn': '2*P-3*P+1*P*P/6', 'pos': (0, 2, 3, 14)} 1787 2222 12132209
+{'Jogos Analisados': 3051, 'Qtd Igual': 2230, 'Acerto': 0.27, 'fn': '2*P-3*P+1*P*P/6', 'pos': (4, 5, 6, 7)} 1787 2230 12133156
+{'Jogos Analisados': 3036, 'Qtd Igual': 2241, 'Acerto': 0.26, 'fn': '2*P-3*P+1*P*P/7', 'pos': (5, 6, 7, 8)} 1787 2241 12136006
+{'Jogos Analisados': 3009, 'Qtd Igual': 1745, 'Acerto': 0.42, 'fn': '2*P-3*P+1*P*P/8', 'pos': (0, 6, 8, 13)} 1745 2241 12137872
+{'Jogos Analisados': 3019, 'Qtd Igual': 1732, 'Acerto': 0.43, 'fn': '2*P-3*P+1*P*P/8', 'pos': (0, 8, 10, 13)} 1732 2241 12137917
+{'Jogos Analisados': 3013, 'Qtd Igual': 1700, 'Acerto': 0.44, 'fn': '2*P-3*P+1*P*P/8', 'pos': (2, 12, 13, 14)} 1700 2241 12138450
+{'Jogos Analisados': 3005, 'Qtd Igual': 1684, 'Acerto': 0.44, 'fn': '2*P-3*P+1*P*P/9', 'pos': (0, 7, 10, 13)} 1684 2241 12140632
+{'Jogos Analisados': 3028, 'Qtd Igual': 1668, 'Acerto': 0.45, 'fn': '2*P-3*P+P/1*P/8', 'pos': (0, 11, 13, 14)} 1668 2241 12158418
+{'Jogos Analisados': 3096, 'Qtd Igual': 2264, 'Acerto': 0.27, 'fn': '2*P-3*P+P/2*P/5', 'pos': (2, 3, 4, 12)} 1668 2264 12170998
+{'Jogos Analisados': 3086, 'Qtd Igual': 2528, 'Acerto': 0.18, 'fn': '2*P-3*P+P/2*P/6', 'pos': (2, 3, 4, 14)} 1668 2528 12173730
+{'Jogos Analisados': 3012, 'Qtd Igual': 1629, 'Acerto': 0.46, 'fn': '2*P-3*P+P/2*P/7', 'pos': (0, 1, 7, 8)} 1629 2528 12175851
+{'Jogos Analisados': 3031, 'Qtd Igual': 2538, 'Acerto': 0.16, 'fn': '2*P-3*P+P/3*P/4', 'pos': (1, 2, 3, 14)} 1629 2538 12188460
+{'Jogos Analisados': 3013, 'Qtd Igual': 1619, 'Acerto': 0.46, 'fn': '2*P-3*P+P/3*P/6', 'pos': (0, 3, 12, 13)} 1619 2538 12193742
+{'Jogos Analisados': 3032, 'Qtd Igual': 1613, 'Acerto': 0.47, 'fn': '2*P-3*P+P/4*P/5', 'pos': (0, 1, 6, 14)} 1613 2538 12231815
+{'Jogos Analisados': 3010, 'Qtd Igual': 1603, 'Acerto': 0.47, 'fn': '2*P-3*P+P/4*P/5', 'pos': (2, 3, 10, 11)} 1603 2538 12232461
+{'Jogos Analisados': 3109, 'Qtd Igual': 1547, 'Acerto': 0.5, 'fn': '2*P-P/3+P/2*P/9', 'pos': (0, 1, 2, 3)} 1547 2538 12508861
+{'Jogos Analisados': 3109, 'Qtd Igual': 1537, 'Acerto': 0.51, 'fn': '2*P-P/3+P/4*P/5', 'pos': (0, 1, 2, 3)} 1537 2538 12559366
+{'Jogos Analisados': 3109, 'Qtd Igual': 1517, 'Acerto': 0.51, 'fn': '2*P-P/3+P/4*P/7', 'pos': (0, 1, 2, 5)} 1517 2538 12564828
+{'Jogos Analisados': 3109, 'Qtd Igual': 1516, 'Acerto': 0.51, 'fn': '2*P-P/3+P/6*P/8', 'pos': (0, 1, 2, 8)} 1516 2538 12649461
+{'Jogos Analisados': 3109, 'Qtd Igual': 1486, 'Acerto': 0.52, 'fn': '2*P-P/3+P/6*P/8', 'pos': (0, 1, 2, 9)} 1486 2538 12649462
+{'Jogos Analisados': 3109, 'Qtd Igual': 1478, 'Acerto': 0.52, 'fn': '2*P-P/3+P/6*P/9', 'pos': (0, 1, 2, 10)} 1478 2538 12652193
+{'Jogos Analisados': 3109, 'Qtd Igual': 1477, 'Acerto': 0.52, 'fn': '2*P-P/3+P/7*P/8', 'pos': (0, 1, 2, 10)} 1477 2538 12690413
+{'Jogos Analisados': 3099, 'Qtd Igual': 2571, 'Acerto': 0.17, 'fn': '2*P-P/3+P/7*P/9', 'pos': (0, 1, 2, 3)} 1477 2571 12693136
+{'Jogos Analisados': 3109, 'Qtd Igual': 1466, 'Acerto': 0.53, 'fn': '2*P-P/3+P/7*P/9', 'pos': (0, 1, 2, 11)} 1466 2571 12693144
+{'Jogos Analisados': 3093, 'Qtd Igual': 2603, 'Acerto': 0.16, 'fn': '2*P-P/3+P/8*P/9', 'pos': (0, 1, 2, 3)} 1466 2603 12734086
+{'Jogos Analisados': 3109, 'Qtd Igual': 1459, 'Acerto': 0.53, 'fn': '2*P-P/3+P/8*P/9', 'pos': (0, 1, 2, 12)} 1459 2603 12734095
+{'Jogos Analisados': 3109, 'Qtd Igual': 1458, 'Acerto': 0.53, 'fn': '2*P-P/3+P/8*P/9', 'pos': (0, 1, 2, 13)} 1458 2603 12734096
+{'Jogos Analisados': 3109, 'Qtd Igual': 2694, 'Acerto': 0.13, 'fn': 'P/2-1*P+P/3*P/5', 'pos': (0, 1, 2, 14)} 1458 2694 16777227
+{'Jogos Analisados': 3109, 'Qtd Igual': 2705, 'Acerto': 0.13, 'fn': 'P/2-P/3+P/4*P/5', 'pos': (0, 1, 2, 13)} 1458 2705 18128576
+{'Jogos Analisados': 3072, 'Qtd Igual': 2739, 'Acerto': 0.11, 'fn': 'P/2-P/3+P/4*P/6', 'pos': (0, 1, 13, 14)} 1458 2739 18131373
+{'Jogos Analisados': 3109, 'Qtd Igual': 2743, 'Acerto': 0.12, 'fn': 'P/2-P/3+P/4*P/6', 'pos': (1, 2, 5, 14)} 1458 2743 18131689
+{'Jogos Analisados': 3109, 'Qtd Igual': 2747, 'Acerto': 0.12, 'fn': 'P/2-P/6+P/3*P/9', 'pos': (1, 2, 3, 14)} 1458 2747 20084985
+{'Jogos Analisados': 3118, 'Qtd Igual': 2045, 'Acerto': 0.34, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 1, 2, 3)} 2045 0 23525776
+{'Jogos Analisados': 3113, 'Qtd Igual': 1907, 'Acerto': 0.39, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 1, 2, 4)} 1907 0 23525777
+{'Jogos Analisados': 3109, 'Qtd Igual': 1965, 'Acerto': 0.37, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 1, 2, 5)} 1907 1965 23525778
+{'Jogos Analisados': 3077, 'Qtd Igual': 1875, 'Acerto': 0.39, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 1, 2, 7)} 1875 1965 23525780
+{'Jogos Analisados': 3054, 'Qtd Igual': 1860, 'Acerto': 0.39, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 1, 2, 8)} 1860 1965 23525781
+{'Jogos Analisados': 3035, 'Qtd Igual': 1994, 'Acerto': 0.34, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 1, 4, 5)} 1860 1994 23525799
+{'Jogos Analisados': 3110, 'Qtd Igual': 2031, 'Acerto': 0.35, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 2, 3, 4)} 1860 2031 23525854
+{'Jogos Analisados': 3067, 'Qtd Igual': 2082, 'Acerto': 0.32, 'fn': '3*P-P/2+P/8*1*P', 'pos': (0, 3, 4, 5)} 1860 2082 23525920
+{'Jogos Analisados': 3125, 'Qtd Igual': 1853, 'Acerto': 0.41, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 1, 2, 4)} 1853 2082 23529872
+{'Jogos Analisados': 3125, 'Qtd Igual': 1804, 'Acerto': 0.42, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 1, 2, 5)} 1804 2082 23529873
+{'Jogos Analisados': 3125, 'Qtd Igual': 2173, 'Acerto': 0.3, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 1, 2, 8)} 1804 2173 23529876
+{'Jogos Analisados': 3125, 'Qtd Igual': 2201, 'Acerto': 0.3, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 1, 2, 9)} 1804 2201 23529877
+{'Jogos Analisados': 3124, 'Qtd Igual': 2233, 'Acerto': 0.29, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 1, 3, 10)} 1804 2233 23529889
+{'Jogos Analisados': 3125, 'Qtd Igual': 1797, 'Acerto': 0.42, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 2, 3, 4)} 1797 2233 23529949
+{'Jogos Analisados': 3125, 'Qtd Igual': 1756, 'Acerto': 0.44, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 2, 3, 6)} 1756 2233 23529951
+{'Jogos Analisados': 3125, 'Qtd Igual': 1754, 'Acerto': 0.44, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 2, 3, 7)} 1754 2233 23529952
+{'Jogos Analisados': 3125, 'Qtd Igual': 1729, 'Acerto': 0.45, 'fn': '3*P-P/2+P/8*P/3', 'pos': (0, 2, 4, 5)} 1729 2233 23529960
+{'Jogos Analisados': 3125, 'Qtd Igual': 2274, 'Acerto': 0.27, 'fn': '3*P-P/2+P/8*P/4', 'pos': (0, 1, 2, 12)} 1729 2274 23532610
+{'Jogos Analisados': 3125, 'Qtd Igual': 2281, 'Acerto': 0.27, 'fn': '3*P-P/2+P/8*P/4', 'pos': (0, 1, 3, 13)} 1729 2281 23532622
+{'Jogos Analisados': 3125, 'Qtd Igual': 2343, 'Acerto': 0.25, 'fn': '3*P-P/2+P/8*P/4', 'pos': (0, 1, 3, 14)} 1729 2343 23532623
+{'Jogos Analisados': 3124, 'Qtd Igual': 2350, 'Acerto': 0.25, 'fn': '3*P-P/2+P/8*P/4', 'pos': (0, 1, 4, 14)} 1729 2350 23532633
+{'Jogos Analisados': 3125, 'Qtd Igual': 1713, 'Acerto': 0.45, 'fn': '3*P-P/2+P/8*P/4', 'pos': (0, 2, 4, 5)} 1713 2350 23532690
+{'Jogos Analisados': 3021, 'Qtd Igual': 1698, 'Acerto': 0.44, 'fn': '3*P-P/2+P/8*P/4', 'pos': (1, 9, 11, 14)} 1698 2350 23533237
+{'Jogos Analisados': 3125, 'Qtd Igual': 2353, 'Acerto': 0.25, 'fn': '3*P-P/2+P/8*P/5', 'pos': (0, 1, 2, 14)} 1698 2353 23535342
+{'Jogos Analisados': 3125, 'Qtd Igual': 1691, 'Acerto': 0.46, 'fn': '3*P-P/2+P/8*P/5', 'pos': (0, 2, 4, 7)} 1691 2353 23535422
+{'Jogos Analisados': 3125, 'Qtd Igual': 1690, 'Acerto': 0.46, 'fn': '3*P-P/2+P/8*P/5', 'pos': (0, 2, 4, 8)} 1690 2353 23535423
+{'Jogos Analisados': 3112, 'Qtd Igual': 2365, 'Acerto': 0.24, 'fn': '3*P-P/2+P/8*P/6', 'pos': (0, 2, 3, 4)} 1690 2365 23538139
+{'Jogos Analisados': 3125, 'Qtd Igual': 1680, 'Acerto': 0.46, 'fn': '3*P-P/2+P/8*P/6', 'pos': (0, 2, 4, 9)} 1680 2365 23538154
+{'Jogos Analisados': 3125, 'Qtd Igual': 1659, 'Acerto': 0.47, 'fn': '3*P-P/2+P/8*P/6', 'pos': (0, 2, 5, 8)} 1659 2365 23538162
+{'Jogos Analisados': 3084, 'Qtd Igual': 2435, 'Acerto': 0.21, 'fn': '3*P-P/2+P/8*P/7', 'pos': (0, 2, 3, 4)} 1659 2435 23540869
+{'Jogos Analisados': 3125, 'Qtd Igual': 1574, 'Acerto': 0.5, 'fn': '3*P-P/3+P/4*P/8', 'pos': (0, 1, 2, 3)} 1574 2435 23705956
+{'Jogos Analisados': 3125, 'Qtd Igual': 1564, 'Acerto': 0.5, 'fn': '3*P-P/3+P/4*P/9', 'pos': (0, 1, 2, 3)} 1564 2435 23708686
+{'Jogos Analisados': 3125, 'Qtd Igual': 1539, 'Acerto': 0.51, 'fn': '3*P-P/3+P/5*P/7', 'pos': (0, 1, 2, 3)} 1539 2435 23744176
+{'Jogos Analisados': 3125, 'Qtd Igual': 1538, 'Acerto': 0.51, 'fn': '3*P-P/3+P/5*P/8', 'pos': (0, 1, 2, 3)} 1538 2435 23746906
+{'Jogos Analisados': 3125, 'Qtd Igual': 1462, 'Acerto': 0.53, 'fn': '3*P-P/3+P/5*P/9', 'pos': (0, 1, 2, 3)} 1462 2435 23749636
+{'Jogos Analisados': 3125, 'Qtd Igual': 1452, 'Acerto': 0.54, 'fn': '3*P-P/3+P/6*P/8', 'pos': (0, 1, 2, 3)} 1452 2435 23787856
+{'Jogos Analisados': 3125, 'Qtd Igual': 1436, 'Acerto': 0.54, 'fn': '3*P-P/3+P/6*P/9', 'pos': (0, 1, 2, 3)} 1436 2435 23790586
+{'Jogos Analisados': 3125, 'Qtd Igual': 1405, 'Acerto': 0.55, 'fn': '3*P-P/3+P/7*P/8', 'pos': (0, 1, 2, 3)} 1405 2435 23828806
+{'Jogos Analisados': 3062, 'Qtd Igual': 2440, 'Acerto': 0.2, 'fn': '3*P-P/4+P/3*P/7', 'pos': (0, 8, 9, 10)} 1405 2440 24338280
+{'Jogos Analisados': 3122, 'Qtd Igual': 2442, 'Acerto': 0.22, 'fn': '3*P-P/6+P/2*P/7', 'pos': (0, 1, 3, 4)} 1405 2442 25627888
+{'Jogos Analisados': 3122, 'Qtd Igual': 2443, 'Acerto': 0.22, 'fn': '3*P-P/9+P/2*P/7', 'pos': (0, 2, 3, 4)} 1405 2443 27594919
+{'Jogos Analisados': 3125, 'Qtd Igual': 2472, 'Acerto': 0.21, 'fn': 'P/3-1*P+P/2*P/5', 'pos': (0, 1, 2, 10)} 1405 2472 27895148
+{'Jogos Analisados': 3125, 'Qtd Igual': 2607, 'Acerto': 0.17, 'fn': 'P/3-1*P+P/2*P/6', 'pos': (0, 1, 2, 12)} 1405 2607 27897880
+{'Jogos Analisados': 3125, 'Qtd Igual': 2769, 'Acerto': 0.11, 'fn': 'P/3-1*P+P/2*P/7', 'pos': (0, 1, 2, 14)} 1405 2769 27900612
+{'Jogos Analisados': 3125, 'Qtd Igual': 2811, 'Acerto': 0.1, 'fn': 'P/3-P/2+P/4*P/5', 'pos': (0, 1, 3, 14)} 1405 2811 28939388
+{'Jogos Analisados': 3125, 'Qtd Igual': 2820, 'Acerto': 0.1, 'fn': 'P/3-P/5+P/4*P/6', 'pos': (0, 1, 2, 14)} 1405 2820 30600582
+{'Jogos Analisados': 3125, 'Qtd Igual': 2832, 'Acerto': 0.09, 'fn': 'P/3-P/5+P/4*P/6', 'pos': (0, 1, 3, 14)} 1405 2832 30600593
+{'Jogos Analisados': 3125, 'Qtd Igual': 2846, 'Acerto': 0.09, 'fn': 'P/3-P/5+P/4*P/6', 'pos': (0, 1, 5, 14)} 1405 2846 30600612
+{'Jogos Analisados': 3125, 'Qtd Igual': 2855, 'Acerto': 0.09, 'fn': 'P/3-P/5+P/4*P/6', 'pos': (0, 1, 12, 14)} 1405 2855 30600647
+{'Jogos Analisados': 3125, 'Qtd Igual': 1905, 'Acerto': 0.39, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 2, 3)} 1905 0 38838346
+{'Jogos Analisados': 3124, 'Qtd Igual': 2007, 'Acerto': 0.36, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 2, 4)} 1905 2007 38838347
+{'Jogos Analisados': 3124, 'Qtd Igual': 1890, 'Acerto': 0.4, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 2, 10)} 1890 2007 38838353
+{'Jogos Analisados': 3124, 'Qtd Igual': 1843, 'Acerto': 0.41, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 2, 11)} 1843 2007 38838354
+{'Jogos Analisados': 3116, 'Qtd Igual': 2021, 'Acerto': 0.35, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 4, 11)} 1843 2021 38838375
+{'Jogos Analisados': 3106, 'Qtd Igual': 2037, 'Acerto': 0.34, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 4, 12)} 1843 2037 38838376
+{'Jogos Analisados': 3101, 'Qtd Igual': 2050, 'Acerto': 0.34, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 4, 13)} 1843 2050 38838377
+{'Jogos Analisados': 3080, 'Qtd Igual': 2063, 'Acerto': 0.33, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 5, 14)} 1843 2063 38838387
+{'Jogos Analisados': 3033, 'Qtd Igual': 1827, 'Acerto': 0.4, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 8, 14)} 1827 2063 38838408
+{'Jogos Analisados': 3005, 'Qtd Igual': 1786, 'Acerto': 0.41, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 1, 11, 12)} 1786 2063 38838418
+{'Jogos Analisados': 3081, 'Qtd Igual': 2069, 'Acerto': 0.33, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 2, 5, 14)} 1786 2069 38838453
+{'Jogos Analisados': 3005, 'Qtd Igual': 1785, 'Acerto': 0.41, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 2, 11, 12)} 1785 2069 38838484
+{'Jogos Analisados': 3092, 'Qtd Igual': 2097, 'Acerto': 0.32, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 3, 5, 14)} 1785 2097 38838508
+{'Jogos Analisados': 3003, 'Qtd Igual': 1776, 'Acerto': 0.41, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 6, 11, 13)} 1776 2097 38838649
+{'Jogos Analisados': 3003, 'Qtd Igual': 1772, 'Acerto': 0.41, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 7, 11, 13)} 1772 2097 38838670
+{'Jogos Analisados': 3003, 'Qtd Igual': 1762, 'Acerto': 0.41, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 8, 11, 13)} 1762 2097 38838685
+{'Jogos Analisados': 3025, 'Qtd Igual': 1760, 'Acerto': 0.42, 'fn': '4*P-P/9+P/5*P/8', 'pos': (0, 10, 11, 13)} 1760 2097 38838701
+{'Jogos Analisados': 3068, 'Qtd Igual': 2128, 'Acerto': 0.31, 'fn': '4*P-P/9+P/6*P/2', 'pos': (0, 1, 3, 4)} 1760 2128 38865658
+{'Jogos Analisados': 3107, 'Qtd Igual': 2284, 'Acerto': 0.26, 'fn': '4*P-P/9+P/6*P/3', 'pos': (0, 1, 3, 4)} 1760 2284 38868388
+{'Jogos Analisados': 3083, 'Qtd Igual': 2391, 'Acerto': 0.22, 'fn': '4*P-P/9+P/6*P/3', 'pos': (0, 1, 4, 5)} 1760 2391 38868399
+{'Jogos Analisados': 3083, 'Qtd Igual': 2397, 'Acerto': 0.22, 'fn': '4*P-P/9+P/6*P/3', 'pos': (0, 2, 4, 5)} 1760 2397 38868465
+{'Jogos Analisados': 3096, 'Qtd Igual': 2398, 'Acerto': 0.23, 'fn': '4*P-P/9+P/6*P/3', 'pos': (0, 3, 4, 5)} 1760 2398 38868520
+{'Jogos Analisados': 3001, 'Qtd Igual': 1759, 'Acerto': 0.41, 'fn': '4*P-P/9+P/6*P/7', 'pos': (0, 8, 11, 14)} 1759 2398 38876906
+{'Jogos Analisados': 3037, 'Qtd Igual': 1753, 'Acerto': 0.42, 'fn': '4*P-P/9+P/6*P/7', 'pos': (0, 9, 11, 13)} 1753 2398 38876915
+{'Jogos Analisados': 3023, 'Qtd Igual': 1743, 'Acerto': 0.42, 'fn': '4*P-P/9+P/6*P/8', 'pos': (1, 2, 3, 4)} 1743 2398 38879660
+{'Jogos Analisados': 3049, 'Qtd Igual': 1670, 'Acerto': 0.45, 'fn': 'P/4-1*P+P/1*P/8', 'pos': (0, 2, 4, 5)} 1670 2398 39000870
+{'Jogos Analisados': 3134, 'Qtd Igual': 2405, 'Acerto': 0.23, 'fn': 'P/4-1*P+P/2*P/5', 'pos': (0, 1, 2, 9)} 1670 2405 39033547
+{'Jogos Analisados': 3134, 'Qtd Igual': 2495, 'Acerto': 0.2, 'fn': 'P/4-1*P+P/2*P/5', 'pos': (0, 1, 2, 10)} 1670 2495 39033548
+{'Jogos Analisados': 3134, 'Qtd Igual': 2642, 'Acerto': 0.16, 'fn': 'P/4-1*P+P/2*P/6', 'pos': (0, 1, 2, 12)} 1670 2642 39036280
+{'Jogos Analisados': 3042, 'Qtd Igual': 1587, 'Acerto': 0.48, 'fn': 'P/4-1*P+P/2*P/6', 'pos': (0, 2, 5, 6)} 1587 2642 39036370
+{'Jogos Analisados': 3134, 'Qtd Igual': 2784, 'Acerto': 0.11, 'fn': 'P/4-1*P+P/2*P/7', 'pos': (0, 1, 2, 14)} 1587 2784 39039012
+{'Jogos Analisados': 3084, 'Qtd Igual': 1585, 'Acerto': 0.49, 'fn': 'P/4-1*P+P/2*P/8', 'pos': (0, 1, 3, 9)} 1585 2784 39041748
+{'Jogos Analisados': 3087, 'Qtd Igual': 1567, 'Acerto': 0.49, 'fn': 'P/4-1*P+P/2*P/9', 'pos': (0, 1, 3, 10)} 1567 2784 39044479
+{'Jogos Analisados': 3061, 'Qtd Igual': 1561, 'Acerto': 0.49, 'fn': 'P/4-1*P+P/6*P/7', 'pos': (0, 1, 6, 14)} 1561 2784 39182375
+{'Jogos Analisados': 3081, 'Qtd Igual': 1532, 'Acerto': 0.5, 'fn': 'P/4-2*P+P/2*P/8', 'pos': (2, 3, 7, 13)} 1532 2784 39697613
+{'Jogos Analisados': 3002, 'Qtd Igual': 1512, 'Acerto': 0.5, 'fn': 'P/4-2*P+P/2*P/9', 'pos': (0, 1, 5, 12)} 1512 2784 39699700
+{'Jogos Analisados': 3134, 'Qtd Igual': 2955, 'Acerto': 0.06, 'fn': 'P/4-P/2+P/3*P/6', 'pos': (0, 1, 2, 14)} 1512 2955 40060032
+{'Jogos Analisados': 3134, 'Qtd Igual': 2981, 'Acerto': 0.05, 'fn': 'P/4-P/5+P/3*P/7', 'pos': (0, 1, 2, 13)} 1512 2981 41721236
+{'Jogos Analisados': 3134, 'Qtd Igual': 2983, 'Acerto': 0.05, 'fn': 'P/4-P/6+P/3*P/7', 'pos': (0, 1, 2, 13)} 1512 2983 42376436
+{'Jogos Analisados': 3134, 'Qtd Igual': 1503, 'Acerto': 0.52, 'fn': 'P/5-P/3+P/4*P/8', 'pos': (0, 1, 2, 14)} 1503 2983 51900042
+{'Jogos Analisados': 3134, 'Qtd Igual': 2993, 'Acerto': 0.04, 'fn': 'P/5-P/4+P/3*P/7', 'pos': (0, 1, 2, 14)} 1503 2993 52532037
+{'Jogos Analisados': 3134, 'Qtd Igual': 3007, 'Acerto': 0.04, 'fn': 'P/5-P/6+P/3*P/7', 'pos': (0, 1, 2, 13)} 1503 3007 53514836
+{'Jogos Analisados': 3134, 'Qtd Igual': 1495, 'Acerto': 0.52, 'fn': 'P/6-P/3+P/4*P/8', 'pos': (0, 1, 2, 14)} 1495 3007 63038442{'Jogos Analisados': 3134, 'Qtd Igual': 1491, 'Acerto': 0.52, 'fn': 'P/7-P/3+P/4*P/8', 'pos': (0, 1, 2, 14)} 1491 3007 74176842{'Jogos Analisados': 3002, 'Qtd Igual': 1926, 'Acerto': 0.36, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 2, 4)} 1926 0 78836942{'Jogos Analisados': 3017, 'Qtd Igual': 1843, 'Acerto': 0.39, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 2, 5)} 1843 0 78836943{'Jogos Analisados': 3035, 'Qtd Igual': 1746, 'Acerto': 0.42, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 2, 6)} 1746 0 78836944{'Jogos Analisados': 3033, 'Qtd Igual': 1759, 'Acerto': 0.42, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 2, 7)} 1746 1759 78836945{'Jogos Analisados': 3026, 'Qtd Igual': 1798, 'Acerto': 0.41, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 2, 8)} 1746 1798 78836946{'Jogos Analisados': 3012, 'Qtd Igual': 1823, 'Acerto': 0.39, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 2, 9)} 1746 1823 78836947{'Jogos Analisados': 3015, 'Qtd Igual': 1826, 'Acerto': 0.39, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 2, 10)} 1746 1826 78836948{'Jogos Analisados': 3014, 'Qtd Igual': 1875, 'Acerto': 0.38, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 3, 10)} 1746 1875 78836959{'Jogos Analisados': 3010, 'Qtd Igual': 1890, 'Acerto': 0.37, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 3, 11)} 1746 1890 78836960{'Jogos Analisados': 3023, 'Qtd Igual': 1918, 'Acerto': 0.37, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 1, 4, 6)} 1746 1918 78836965{'Jogos Analisados': 3010, 'Qtd Igual': 1719, 'Acerto': 0.43, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 2, 3, 13)} 1719 1918 78837028{'Jogos Analisados': 3001, 'Qtd Igual': 1692, 'Acerto': 0.44, 'fn': '8*P-2*P+P/6*P/4', 'pos': (0, 2, 6, 9)} 1692 1918 78837051{'Jogos Analisados': 3009, 'Qtd Igual': 2023, 'Acerto': 0.33, 'fn': '8*P-2*P+P/6*P/5', 'pos': (0, 1, 3, 4)} 1692 2023 78839683{'Jogos Analisados': 3006, 'Qtd Igual': 1683, 'Acerto': 0.44, 'fn': '8*P-2*P+P/6*P/5', 'pos': (0, 2, 6, 12)} 1683 2023 78839784{'Jogos Analisados': 3004, 'Qtd Igual': 1668, 'Acerto': 0.44, 'fn': '8*P-2*P+P/6*P/5', 'pos': (0, 2, 7, 11)} 1668 2023 78839790{'Jogos Analisados': 3011, 'Qtd Igual': 1657, 'Acerto': 0.45, 'fn': '8*P-2*P+P/6*P/9', 'pos': (0, 1, 2, 14)} 1657 2023 78847872{'Jogos Analisados': 3004, 'Qtd Igual': 1652, 'Acerto': 0.45, 'fn': '8*P-2*P+P/7*P/8', 'pos': (0, 2, 12, 13)} 1652 2023 78886222{'Jogos Analisados': 3003, 'Qtd Igual': 1650, 'Acerto': 0.45, 'fn': '8*P-2*P+P/7*P/9', 'pos': (0, 2, 13, 14)} 1650 2023 78888954{'Jogos Analisados': 3039, 'Qtd Igual': 2024, 'Acerto': 0.33, 'fn': '8*P-2*P+P/8*P/3', 'pos': (0, 1, 4, 6)} 1650 2024 78895660{'Jogos Analisados': 3053, 'Qtd Igual': 2026, 'Acerto': 0.34, 'fn': '8*P-2*P+P/8*P/3', 'pos': (0, 2, 6, 7)} 1650 2026 78895744{'Jogos Analisados': 3029, 'Qtd Igual': 2042, 'Acerto': 0.33, 'fn': '8*P-2*P+P/8*P/3', 'pos': (0, 2, 6, 9)} 1650 2042 78895746{'Jogos Analisados': 3021, 'Qtd Igual': 2083, 'Acerto': 0.31, 'fn': '8*P-2*P+P/8*P/3', 'pos': (0, 2, 7, 8)} 1650 2083 78895752{'Jogos Analisados': 3063, 'Qtd Igual': 2089, 'Acerto': 0.32, 'fn': '8*P-2*P+P/8*P/4', 'pos': (0, 2, 7, 8)} 1650 2089 78898482{'Jogos Analisados': 3090, 'Qtd Igual': 2100, 'Acerto': 0.32, 'fn': '8*P-2*P+P/8*P/5', 'pos': (0, 1, 4, 5)} 1650 2100 78901119{'Jogos Analisados': 3086, 'Qtd Igual': 2112, 'Acerto': 0.32, 'fn': '8*P-2*P+P/8*P/5', 'pos': (0, 2, 7, 8)} 1650 2112 78901212{'Jogos Analisados': 3074, 'Qtd Igual': 2115, 'Acerto': 0.31, 'fn': '8*P-2*P+P/8*P/5', 'pos': (0, 2, 7, 9)} 1650 2115 78901213{'Jogos Analisados': 3036, 'Qtd Igual': 1642, 'Acerto': 0.46, 'fn': '8*P-2*P+P/8*P/7', 'pos': (0, 1, 2, 5)} 1642 2115 78906558{'Jogos Analisados': 3004, 'Qtd Igual': 1628, 'Acerto': 0.46, 'fn': '8*P-2*P+P/9*P/3', 'pos': (0, 2, 3, 14)} 1628 2115 78936674{'Jogos Analisados': 3001, 'Qtd Igual': 1623, 'Acerto': 0.46, 'fn': '8*P-P/2+P/6*P/9', 'pos': (0, 4, 5, 11)} 1623 2115 79175665{'Jogos Analisados': 3002, 'Qtd Igual': 1622, 'Acerto': 0.46, 'fn': '8*P-P/2+P/7*P/9', 'pos': (0, 4, 5, 12)} 1622 2115 79216616{'Jogos Analisados': 3002, 'Qtd Igual': 2121, 'Acerto': 0.29, 'fn': '8*P-P/2+P/8*P/7', 'pos': (0, 3, 4, 5)} 1622 2121 79234300{'Jogos Analisados': 3002, 'Qtd Igual': 1601, 'Acerto': 0.47, 'fn': '8*P-P/2+P/9*P/8', 'pos': (0, 4, 5, 14)} 1601 2121 79276678{'Jogos Analisados': 3018, 'Qtd Igual': 2196, 'Acerto': 0.27, 'fn': '8*P-4*P+P/3*P/8', 'pos': (0, 1, 6, 14)} 1601 2196 80053205{'Jogos Analisados': 3010, 'Qtd Igual': 2227, 'Acerto': 0.26, 'fn': '8*P-4*P+P/3*P/8', 'pos': (0, 1, 7, 14)} 1601 2227 80053212{'Jogos Analisados': 3005, 'Qtd Igual': 2231, 'Acerto': 0.26, 'fn': '8*P-4*P+P/4*P/5', 'pos': (0, 1, 6, 13)} 1601 2231 80066854{'Jogos Analisados': 3018, 'Qtd Igual': 2273, 'Acerto': 0.25, 'fn': '8*P-4*P+P/4*P/6', 'pos': (0, 1, 6, 14)} 1601 2273 80069585{'Jogos Analisados': 3010, 'Qtd Igual': 2307, 'Acerto': 0.23, 'fn': '8*P-4*P+P/4*P/6', 'pos': (0, 1, 7, 14)} 1601 2307 80069592{'Jogos Analisados': 3007, 'Qtd Igual': 2350, 'Acerto': 0.22, 'fn': '8*P-4*P+P/4*P/8', 'pos': (0, 1, 8, 14)} 1601 2350 80073693{'Jogos Analisados': 3013, 'Qtd Igual': 2382, 'Acerto': 0.21, 'fn': '8*P-4*P+P/4*P/8', 'pos': (0, 1, 9, 14)} 1601 2382 80073698{'Jogos Analisados': 3001, 'Qtd Igual': 1576, 'Acerto': 0.47, 'fn': '8*P-P/4+P/7*P/9', 'pos': (0, 4, 5, 6)} 1576 2382 80527010{'Jogos Analisados': 3146, 'Qtd Igual': 2385, 'Acerto': 0.24, 'fn': 'P/8-1*P+P/1*P/5', 'pos': (0, 1, 3, 4)} 1576 2385 83547568{'Jogos Analisados': 3155, 'Qtd Igual': 2409, 'Acerto': 0.24, 'fn': 'P/8-1*P+P/2*P/5', 'pos': (0, 1, 2, 9)} 1576 2409 83588512{'Jogos Analisados': 3155, 'Qtd Igual': 2504, 'Acerto': 0.21, 'fn': 'P/8-1*P+P/2*P/5', 'pos': (0, 1, 2, 10)} 1576 2504 83588513{'Jogos Analisados': 3155, 'Qtd Igual': 2677, 'Acerto': 0.15, 'fn': 'P/8-1*P+P/2*P/6', 'pos': (0, 1, 2, 12)} 1576 2677 83591245{'Jogos Analisados': 3155, 'Qtd Igual': 2786, 'Acerto': 0.12, 'fn': 'P/8-1*P+P/2*P/7', 'pos': (0, 1, 2, 14)} 1576 2786 83593977{'Jogos Analisados': 3106, 'Qtd Igual': 1545, 'Acerto': 0.5, 'fn': 'P/8-1*P+P/2*P/9', 'pos': (0, 1, 3, 10)} 1545 2786 83598079{'Jogos Analisados': 3004, 'Qtd Igual': 1512, 'Acerto': 0.5, 'fn': 'P/8-2*P+P/2*P/9', 'pos': (0, 1, 5, 12)} 1512 2786 84253300{'Jogos Analisados': 3155, 'Qtd Igual': 2991, 'Acerto': 0.05, 'fn': 'P/8-P/2+P/3*P/6', 'pos': (0, 1, 2, 14)} 1512 2991 84614997{'Jogos Analisados': 3155, 'Qtd Igual': 3020, 'Acerto': 0.04, 'fn': 'P/8-P/4+P/3*P/7', 'pos': (0, 1, 2, 14)} 1512 3020 85948602{'Jogos Analisados': 3155, 'Qtd Igual': 3027, 'Acerto': 0.04, 'fn': 'P/8-P/5+P/3*P/7', 'pos': (0, 1, 2, 14)} 1512 3027 86603802{'Jogos Analisados': 3155, 'Qtd Igual': 1500, 'Acerto': 0.52, 'fn': 'P/9-P/3+P/4*P/8', 'pos': (0, 1, 2, 14)} 1500 3027 96455007
